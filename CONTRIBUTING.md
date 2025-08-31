@@ -11,9 +11,9 @@ Thank you for your interest in contributing to the Agile Project Management Tool
 6. Request a code review from the maintainers.
 
 ## Guidelines
-- Ensure your code follows established coding conventions.
+- Follow coding conventions.
 - Write clear and descriptive commit messages.
-- Include tests if you are adding new features or fixing bugs.
-- Document your code to facilitate understanding and maintenance.
+- Include tests for new features or bug fixes.
+- Document your code to aid understanding and maintenance.
 
 Thank you for your contributions!
