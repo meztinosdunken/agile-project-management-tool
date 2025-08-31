@@ -14,5 +14,6 @@ Thank you for your interest in contributing to the Agile Project Management Tool
 - Ensure your code follows established coding conventions.
 - Write clear and descriptive commit messages.
 - Include tests if you are adding new features or fixing bugs.
+- Document your code to facilitate understanding and maintenance.
 
 Thank you for your contributions!
