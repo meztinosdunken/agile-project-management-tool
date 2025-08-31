@@ -8,6 +8,7 @@ Thank you for your interest in contributing to the Agile Project Management Tool
 3. Make your changes and commit them to your branch.
 4. Push your branch to your forked repository.
 5. Create a pull request to the original repository.
+6. Request a code review from the maintainers.
 
 ## Guidelines
 - Ensure your code follows established coding conventions.
