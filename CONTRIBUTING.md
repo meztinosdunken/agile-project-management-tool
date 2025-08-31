@@ -6,6 +6,7 @@ Thank you for your interest in contributing to the Agile Project Management Tool
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them to your branch.
+   - If your work spans multiple commits, consider squashing your commits into a single commit before pushing.
 4. Push your branch to your forked repository.
 5. Create a pull request to the original repository.
 6. Request a code review from the maintainers.
